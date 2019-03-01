@@ -9,15 +9,15 @@ Hybrid Approach: Genetic Algorithm plus Guided Local Search - Fast Local Search
 ### Prerequisites
 Language: Python 3.0
 
-```
-Give examples
-```
+
 
 
 ## Running the tests
 
-run ./data 
 
+```
+run ./data 
+```
 
 ## Authors
 
