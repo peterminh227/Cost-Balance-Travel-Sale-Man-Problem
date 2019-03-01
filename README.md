@@ -21,7 +21,7 @@ run ./data
 
 ## Authors
 
-* **Minh Nhat Vu** - 
+* **Minh Nhat Vu** 
 
 ## License
 
